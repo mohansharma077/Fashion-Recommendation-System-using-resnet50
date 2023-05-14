@@ -25,15 +25,6 @@ The fashion recommendation system typically consists of two parts: a data collec
 
 #Convolutional Neural Networks
 
-*   List item
-
-*   List item
-*   List item
-
-
-*   List item
-
-
 CNN stands for Convolutional Neural Network. It is a type of deep learning model that is commonly used in image recognition tasks, such as object detection, classification, and segmentation.
 
 In the context of recommendation systems, CNNs can be used to analyze clothing item images and extract relevant features such as color, pattern, and style. These features can then be used to generate personalized recommendations for users based on their preferences and past interactions.
