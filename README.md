@@ -30,11 +30,13 @@ To use a CNN in a recommendation system, the model is typically trained on a lar
 
 Overall, using a CNN in a recommendation system can help improve the accuracy and relevance of recommendations by taking into account visual cues and preferences.
 
-conv.jpg
+conv.jpg![download](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/9eff4912-b07e-4a36-9831-05138d2c7c77)
+
 
 📊Application Flow-Chart
 
-image.png
+image.png<img width="494" alt="download" src="https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/103cac63-53de-46c7-b381-026994d5783a">
+
 
 Let’s now dive into building a fashion recommendation system with Machine Learning. I will simply start with importing all the packages we need for this task:
 
