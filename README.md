@@ -11,15 +11,22 @@ The fashion recommendation system typically consists of two parts: a data collec
 
 [ ]
 
-Here's a revised table summarizing the algorithms and models used in fashion recommendation systems::
+ Here's a revised table summarizing the algorithms and models used in fashion recommendation systems::
 
-Algorithm/Model	Description
-Collaborative Filtering	Recommends items based on the preferences of users with similar interests using user-item interaction data.
-Content-Based Filtering	Recommends items based on a user's past preferences and analyzes item features like color, style, and brand.
-Hybrid Filtering	Combines collaborative and content-based filtering approaches for more accurate and personalized recommendations.
-Deep Learning Models	Uses CNN and RNN to analyze clothing item images and descriptions to provide personalized recommendations.
-Matrix Factorization	Uses algorithms like SVD and ALS to predict missing values in user-item interaction data and generate recommendations.
-[ ]
+| Algorithm/Model | Description |
+|-----------------|-------------|
+| Collaborative Filtering | Recommends items based on the preferences of users with similar interests using user-item interaction data.
+ |
+| Content-Based Filtering | Recommends items based on a user's past preferences and analyzes item features like color, style, and brand.
+ |
+| Hybrid Filtering | Combines collaborative and content-based filtering approaches for more accurate and personalized recommendations. 
+|
+| Deep Learning Models | Uses CNN and RNN to analyze clothing item images and descriptions to provide personalized recommendations. 
+|
+| Matrix Factorization | Uses algorithms like SVD and ALS to predict missing values in user-item interaction data and generate recommendations. 
+|
+
+
 
 Convolutional Neural Networks
 CNN stands for Convolutional Neural Network. It is a type of deep learning model that is commonly used in image recognition tasks, such as object detection, classification, and segmentation.
@@ -30,12 +37,12 @@ To use a CNN in a recommendation system, the model is typically trained on a lar
 
 Overall, using a CNN in a recommendation system can help improve the accuracy and relevance of recommendations by taking into account visual cues and preferences.
 
-conv.jpg![download](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/9eff4912-b07e-4a36-9831-05138d2c7c77)
+![download](https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/9eff4912-b07e-4a36-9831-05138d2c7c77)
 
 
 📊Application Flow-Chart
 
-image.png<img width="494" alt="download" src="https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/103cac63-53de-46c7-b381-026994d5783a">
+<img width="494" alt="download" src="https://github.com/mohansharma077/Fashion-Recommendation-System-using-resnet50/assets/104629829/103cac63-53de-46c7-b381-026994d5783a">
 
 
 Let’s now dive into building a fashion recommendation system with Machine Learning. I will simply start with importing all the packages we need for this task:
