@@ -1,7 +1,7 @@
 # Fashion-Recommendation-System-using-resnet50
 
 Fashion recommendation system
-[ ]
+[ ] 
 
 A recommendation system is a type of machine learning system that is designed to suggest items to users based on their preferences and behaviors. These systems can be used in a variety of applications, including e-commerce websites, streaming services, social media platforms, and more.
 
